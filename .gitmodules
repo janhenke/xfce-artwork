@@ -1,0 +1,21 @@
+[submodule "wallpapers"]
+	path = wallpapers
+	url = git@github.com:shimmerproject/Wallpapers.git
+[submodule "icons"]
+	path = icons
+	url = git@github.com:shimmerproject/elementary-xfce.git
+[submodule "themes/Albatross"]
+	path = themes/Albatross
+	url = git@github.com:shimmerproject/Albatross.git
+[submodule "themes/Bluebird"]
+	path = themes/Bluebird
+	url = git@github.com:shimmerproject/Bluebird.git
+[submodule "themes/Greybird"]
+	path = themes/Greybird
+	url = git@github.com:shimmerproject/Greybird.git
+[submodule "themes/Numix"]
+	path = themes/Numix
+	url = git@github.com:shimmerproject/Numix.git
+[submodule "themes/Orion"]
+	path = themes/Orion
+	url = git@github.com:shimmerproject/Orion.git
